@@ -1,0 +1,11 @@
+SQLAlchemy==2.0.23
+Scrapy==2.11.0
+ipython==8.13.0
+scrapy-playwright==0.0.33
+playwright==1.39.0
+psycopg2==2.9.9
+python-dotenv==1.0.0
+ShopifyAPI==12.3.0
+pytz==2023.3.post1
+celery==5.3.6
+tqdm==4.66.1
